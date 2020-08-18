@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩🏻‍💻 [포트폴리오 사이트](http://wowww.co.kr/portfolio.html)  
+- 👩🏻‍💻 [포트폴리오 사이트](http://wowww.co.kr/index.html)  
   - 🔍 [상세 설명 페이지](https://github.com/wowww/portfolio/blob/master/README.md)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wowww)](https://github.com/wowww/github-readme-stats)  
