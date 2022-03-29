@@ -1,5 +1,5 @@
 Hi there 👋 I'm Eunjee!   
-I'm a UI developer thinking about website optimization.   
+I'm a developer thinking about website optimization.   
 These days, I am interested in <a href="https://wowww.github.io/url/canvas/effect/scrollEvent/" target="_blank">canvas.</a>
 
 <br />
